@@ -42,10 +42,11 @@ The geospatial data allows us to:
 ![A-1-2](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/1d5e195911a5d99744aa481dabd19b3d9ea396d5/Screenshot/A-1-2.png)
 • (Entire Shape Layer of India)
 ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
+
 # Requirements:
 •	QGIS: Install the latest version of QGIS from the official website.
 Getting Started:
-1.	Clone this repository to your local machine: 
+1.	Clone this repository to your local machine: https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS.git 
 2.	Open QGIS, and load the states.shp and districts.shp file located in the Main (Source Data File) folder.
 3.	Explore the data:
 •	View district boundaries on the map.
