@@ -37,7 +37,6 @@ The geospatial data allows us to:
 1. ![A-1-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png)
 2. ![A-1-2](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/1d5e195911a5d99744aa481dabd19b3d9ea396d5/Screenshot/A-1-2.png)
 3. ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
-# How It Works 
 Requirements:
 •	QGIS: Install the latest version of QGIS from the official website.
 Getting Started:
