@@ -8,8 +8,8 @@ On the very first day of this project, we familiarized ourselves with the QGIS s
 
 # Key Features:
 * District: Represents individual districts within India.
-•	District Code: A unique identifier for each district.
-•	State: The state to which each district belongs.
+- District Code: A unique identifier for each district.
+- State: The state to which each district belongs.
 
 # Objective:
 Using this geospatial dataset, the main objective was to:
