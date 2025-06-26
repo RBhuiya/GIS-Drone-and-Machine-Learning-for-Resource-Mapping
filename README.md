@@ -33,6 +33,8 @@ The geospatial data allows us to:
 •	Identify the District in Each State: By visualizing the districts, we can easily see which district belongs to which state.
 •	Boundary Analysis: We used QGIS tools to analyze how much boundary each district shares with others. This helps in understanding the spatial relationships between different administrative units in India.
 
+# Screenshot
+
 # How It Works 
 Requirements:
 •	QGIS: Install the latest version of QGIS from the official website.
