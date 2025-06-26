@@ -19,21 +19,21 @@ Using this geospatial dataset, the main objective was to:
 # Project Steps
 1. Learning & Familiarization with QGIS
 The project started with an introduction to QGIS. We learned how to:
-- Navigate the interface.
-- Use the various tools available for working with spatial data.
-- Import and visualize geographic datasets.
-- Perform basic geospatial analysis.
+  - Navigate the interface.
+  - Use the various tools available for working with spatial data.
+  - Import and visualize geographic datasets.
+  - Perform basic geospatial analysis.
 
 2. Adding the Geospatial Data
 After getting acquainted with QGIS, we imported a dataset containing India’s administrative map, focusing on:
-- District Boundaries: Geographic features that represent each district’s boundaries.
-- District Codes: Unique identifiers for every district.
-- States: The states within which the districts are located.
+  - District Boundaries: Geographic features that represent each district’s boundaries.
+  - District Codes: Unique identifiers for every district.
+  - States: The states within which the districts are located.
 
 3. Analyzing Spatial Relationships
 The geospatial data allows us to:
-- Identify the District in Each State: By visualizing the districts, we can easily see which district belongs to which state.
-- Boundary Analysis: We used QGIS tools to analyze how much boundary each district shares with others. This helps in understanding the spatial relationships between different administrative units in India
+  - Identify the District in Each State: By visualizing the districts, we can easily see which district belongs to which state.
+  - Boundary Analysis: We used QGIS tools to analyze how much boundary each district shares with others. This helps in understanding the spatial relationships between different administrative units in India
 
 # Screenshot
 - (Basic Software Interface QGIS) 
