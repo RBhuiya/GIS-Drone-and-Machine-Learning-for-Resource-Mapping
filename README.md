@@ -1,7 +1,7 @@
 # GIS, Drone and Machine Learning for Resource Mapping 
 # QGIS India's Geospatial Data Project
 This project demonstrates the use of QGIS (Quantum Geographic Information System) software to visualize and analyze geospatial data. We have worked with a dataset that provides details about the districts of India, helping us understand the spatial relationship between districts and states.
-![A-1-3](https://github.com/user-attachments/assets/0eadd4d1-6c3c-4e30-9027-cd401ba44cf0)
+![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
 
 # Overview
 On the very first day of this project, we familiarized ourselves with the QGIS software. We explored its tools and features to better understand how it works for spatial data analysis. After this, we imported a geospatial dataset that represents India’s map, which includes key administrative divisions like districts and states.
@@ -36,7 +36,7 @@ The geospatial data allows us to:
 # Screenshot
 1. ![A-1-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png)
 2. ![A-1-2](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/1d5e195911a5d99744aa481dabd19b3d9ea396d5/Screenshot/A-1-2.png)
-3. ![A-1-3]()
+3. ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
 # How It Works 
 Requirements:
 •	QGIS: Install the latest version of QGIS from the official website.
