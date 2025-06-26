@@ -37,7 +37,7 @@ The geospatial data allows us to:
 
 # Screenshot
 - (Basic Software Interface QGIS) 
-![A-1-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png)
+   - ![A-1-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png)
 - (Adding The District & State Layer)
 ![A-1-2](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/1d5e195911a5d99744aa481dabd19b3d9ea396d5/Screenshot/A-1-2.png)
 - (Entire Shape Layer of India)
