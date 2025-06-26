@@ -57,7 +57,7 @@ By working with this dataset, users can:
 •	Analyse how much boundary each district shares with others.
 •	Gain insights into administrative divisions and border-sharing relationships, which could be useful for policymaking, resource distribution, and regional planning.
 
-# Developed By
-Rahul Bhuiya 
+# Author
+Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
 
 
