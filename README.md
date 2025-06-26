@@ -34,8 +34,8 @@ The geospatial data allows us to:
 •	Boundary Analysis: We used QGIS tools to analyze how much boundary each district shares with others. This helps in understanding the spatial relationships between different administrative units in India.
 
 # Screenshot
-1. https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png
-2.
+1. ![A-1-1](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/dc7b7e80bf6f31dcd3dac2f7df975c6e81ec068b/Screenshot/A-1-1.png)
+2. ![A-1-2]()
 # How It Works 
 Requirements:
 •	QGIS: Install the latest version of QGIS from the official website.
