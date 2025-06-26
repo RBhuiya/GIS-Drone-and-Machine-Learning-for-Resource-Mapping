@@ -19,10 +19,10 @@ Using this geospatial dataset, the main objective was to:
 # Project Steps
 1. Learning & Familiarization with QGIS
    The project started with an introduction to QGIS. We learned how to:
-  - Navigate the interface.
-  - Use the various tools available for working with spatial data.
-  - Import and visualize geographic datasets.
-  - Perform basic geospatial analysis.
+     - Navigate the interface.
+     - Use the various tools available for working with spatial data.
+     - Import and visualize geographic datasets.
+     - Perform basic geospatial analysis.
 
 2. Adding the Geospatial Data
 After getting acquainted with QGIS, we imported a dataset containing India’s administrative map, focusing on:
