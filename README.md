@@ -18,7 +18,7 @@ Using this geospatial dataset, the main objective was to:
 
 # Project Steps
 1. Learning & Familiarization with QGIS
-The project started with an introduction to QGIS. We learned how to:
+- The project started with an introduction to QGIS. We learned how to:
   - Navigate the interface.
   - Use the various tools available for working with spatial data.
   - Import and visualize geographic datasets.
