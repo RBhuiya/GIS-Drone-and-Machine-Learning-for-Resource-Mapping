@@ -7,7 +7,7 @@ This project demonstrates the use of QGIS (Quantum Geographic Information System
 On the very first day of this project, we familiarized ourselves with the QGIS software. We explored its tools and features to better understand how it works for spatial data analysis. After this, we imported a geospatial dataset that represents India’s map, which includes key administrative divisions like districts and states.
 
 # Key Features:
-•	District: Represents individual districts within India.
+* District: Represents individual districts within India.
 •	District Code: A unique identifier for each district.
 •	State: The state to which each district belongs.
 
