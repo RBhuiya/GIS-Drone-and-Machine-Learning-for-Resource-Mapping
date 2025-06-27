@@ -45,7 +45,7 @@ The geospatial data allows us to:
    - ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
 
 # Requirements:
-- QGIS: Install the latest version of QGIS from the [official website](https://qgis.org/download/).
+- Install QGIS: [official website](https://qgis.org/download/) latest version.
 - Getting Started:
    1.	Clone this repository to your local machine: https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS.git 
    2.	Open QGIS, and load the states.shp and districts.shp file located in the Main (Source Data File) folder.
