@@ -47,9 +47,9 @@ The geospatial data allows us to:
 
    - ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
 
-# 📝Requirements
+# 📝 Requirements
 - ⬇️ Install QGIS: [official website](https://qgis.org/download/) (latest version).
-- 🟢Getting Started:
+- 🟢 Getting Started:
    1.	Clone this repository to your local machine: https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping-QGIS.git 
    2.	Open QGIS, and load the states.shp and districts.shp file located in the Main (Source Data File) folder.
    3.	Explore the data:
@@ -57,7 +57,7 @@ The geospatial data allows us to:
         - Use QGIS query tools to view district codes and states.
         - Utilize QGIS analysis tools to study district borders and how they share boundaries with neighboring districts or states.
 
-# ✅️Benefits of This Analysis
+# ✅️ Benefits of This Analysis
 By working with this dataset, users can:
    - Quickly identify which district is located in which state.
    - Analyse how much boundary each district shares with others.
@@ -65,5 +65,3 @@ By working with this dataset, users can:
 
 # 👨‍💼Author
 Mr. Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
-
-
