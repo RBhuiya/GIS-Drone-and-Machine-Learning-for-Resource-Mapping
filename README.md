@@ -1,23 +1,23 @@
-# GIS, Drone and Machine Learning for Resource Mapping 
-# QGIS India's Geospatial Data Project
+# 🌏📗 GIS, Drone and Machine Learning for Resource Mapping 🗾
+# 🇮🇳 QGIS India's Geospatial Data Project
 This project demonstrates the use of QGIS (Quantum Geographic Information System) software to visualize and analyze geospatial data. We have worked with a dataset that provides details about the districts of India, helping us understand the spatial relationship between districts and states.
 
 ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
 
-# Overview
+# 🗺️ Overview
 **On the very first day of this project**, we familiarized ourselves with the QGIS software. We explored its tools and features to better understand how it works for spatial data analysis. After this, we imported a geospatial dataset that represents India’s map, which includes key administrative divisions like districts and states.
 
-# Key Features:
+# 🗝️ Key Features
 - District: Represents individual districts within India.
 - District Code: A unique identifier for each district.
 - State: The state to which each district belongs.
 
-# Objective:
+# 🎯 Objective
 Using this geospatial dataset, the main objective was to:
 - Identify which district belongs to which state in India.
 - Understand the boundaries of each district and analyze how they share borders with neighboring districts or states.
 
-# Project Steps
+# 🗂️ Project Steps
 1. Learning & Familiarization with QGIS
    The project started with an introduction to QGIS. We learned how to:
      - Navigate the interface.
