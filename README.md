@@ -1,5 +1,6 @@
 # 🌏📗 GIS, Drone and Machine Learning for Resource Mapping 🗾
-# 🇮🇳 QGIS India's Geospatial Data Project
+# ![ChakraIndianArmyGIF](https://github.com/user-attachments/assets/abc52396-ad6a-4b61-93d1-a28d13bacfe9)
+QGIS India's Geospatial Data Project
 This project demonstrates the use of QGIS (Quantum Geographic Information System) software to visualize and analyze geospatial data. We have worked with a dataset that provides details about the districts of India, helping us understand the spatial relationship between districts and states.
 
 ![A-1-3](https://github.com/RBhuiya/GIS-Drone-and-Machine-Learning-for-Resource-Mapping/blob/5228f2917970fed0d78ffc7a2327687a769a8196/Screenshot/A-1-3.jpg)
