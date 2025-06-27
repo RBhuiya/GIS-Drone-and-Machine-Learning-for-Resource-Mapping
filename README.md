@@ -56,11 +56,11 @@ The geospatial data allows us to:
 
 # Benefits of This Analysis
 By working with this dataset, users can:
-- Quickly identify which district is located in which state.
-- Analyse how much boundary each district shares with others.
-- Gain insights into administrative divisions and border-sharing relationships, which could be useful for policymaking, resource distribution, and regional planning.
+   - Quickly identify which district is located in which state.
+   - Analyse how much boundary each district shares with others.
+   - Gain insights into administrative divisions and border-sharing relationships, which could be useful for policymaking, resource distribution, and regional planning.
 
 # Author
-Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
+Mr. Rahul Bhuiya | 4th year CSE-AIML student at MCKVIE'26🎓
 
 
